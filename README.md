@@ -1,6 +1,6 @@
 # Angular Ecommerce Web App
 
-I made this project to learn and understand the basics of both Angular and MySQL. It was not fun at first but once I got the hang of it it was quite pleasant. In addition to Angular and MySQL, this project is built using Ant Design for its UI and SwiperJS for its carousels. The backend is built using Node.js, Express.js, Joi for input validation, and JWT for authentication. I did want to provide a demo link for now there will be instructions on how to set up this project on your local machine.
+I made this project to learn and understand the basics of both Angular and MySQL. It was not fun at first but once I got the hang of it it was quite pleasant. In addition to Angular and MySQL. The backend is built using Node.js, Express.js, Joi for input validation, and JWT for authentication. I did want to provide a demo link for now there will be instructions on how to set up this project on your local machine.
 
 <br/>
 
@@ -24,7 +24,7 @@ The checkout process is a multi-page form that at the end allows you to place an
 The app can be installed by cloning the git repository
 
 ```
-git clone https://github.com/michaelparkadze/angular-ecommerce-app.git folder-name
+git clone https://github.com/nshimiyimanaamani/angular_project.git folder-name
 ```
 
 Then cd into both directories and run npm install
